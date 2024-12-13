@@ -1,0 +1,8 @@
+streamlit
+email
+pdfplumber
+pytesseract
+Pillow
+docx
+json
+python-dotenv
